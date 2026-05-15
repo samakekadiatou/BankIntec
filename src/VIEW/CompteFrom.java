@@ -3,7 +3,7 @@ package VIEW;
 import javax.swing.*;
 
 public class CompteFrom {
-    public static void nain(String[] args) {
+    public static void main(String[] args) {
         new CompteFrom();
     }
 
